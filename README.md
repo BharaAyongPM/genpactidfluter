@@ -1,4 +1,4 @@
-ini adalah aplikasi futer project saya di semester 3 mata kuliah mobile programing
-yang saya upload hanya file lib nya saja
-
-maklum bang masih awal
+Project Flutter Mobile Programing Semester 3 Universitas Bina Sarana Informatika
+membuat aplikasi top up sederhana
+folder lib saja 
+Terimakasih
